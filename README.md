@@ -72,7 +72,6 @@
 
 ## 🏆 Achievements
 
-- 🥈 **Runner-up — All India Hackathon** — competed against top engineering teams nationwide
 - 💻 **300+ DSA problems** solved on LeetCode & GeeksforGeeks
 - 🎓 **CGPA: 8.0** — B.Tech Information Technology
 
