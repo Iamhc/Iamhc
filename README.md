@@ -1,6 +1,7 @@
 # Hi there, I'm Himanshu Choudhary 👋
 
-### Full Stack Developer | AI/LLM Integrations | React.js • Node.js • Python
+### Software Engineer | AI/LLM Integrations | React.js • Node.js • Python
+ 
 
 ---
 
