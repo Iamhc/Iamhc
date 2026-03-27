@@ -1,6 +1,6 @@
 # Hi there, I'm Himanshu Choudhary 👋
 
-### Software Engineer | AI/LLM Integrations | React.js • Node.js • Python
+### Software Engineer | AI/LLM Integrations | React.js • Node.js • Python • Java
  
 
 ---
