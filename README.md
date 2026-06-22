@@ -2,7 +2,6 @@
 
 ### Software Engineer | AI/LLM Integrations | React.js • Node.js • Python • Java
  
-
 ---
 
 ## 🚀 About Me
