@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech IT @ GGSIPU Delhi (2023–2027) | CGPA: 9.0
+- 🎓 B.Tech IT @ GGSIPU Delhi (2023–2027) | CGPA: 8.0
 - 💼 Ex-Intern @ **To Let Globe** & **Rahul Sir Classes**
 - 🤖 Passionate about building **AI-powered products** and **workflow-driven interfaces**
 - 🧩 Love turning complex problems into clean, scalable code
