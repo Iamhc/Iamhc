@@ -73,7 +73,7 @@
 ## 🏆 Achievements
 
 - 💻 **500+ DSA problems** solved on LeetCode & GeeksforGeeks
-- 🎓 **CGPA: 9.0** — B.Tech Information Technology
+- 🎓 **CGPA: 8.0** — B.Tech Information Technology
 
 ---
 
