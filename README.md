@@ -37,6 +37,7 @@
 ### AI & Tools
 ![OpenAI](https://img.shields.io/badge/ZukiJourney_API-FF6B6B?style=flat-square&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-5A52FF?style=flat-square&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
