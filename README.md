@@ -48,7 +48,7 @@
 
 ### 🤖 [AI Agent Platform](https://github.com/Iamhc/Dear-frontend)
 > Autonomous AI agent system with task routing, LLM responses via ZukiJourney API, and real-time React dashboard
-> `React.js` `TypeScript` `Redux` `Node.js` `ZukiJourney API` `LangChain` `MongoDB`
+> `React.js` `TypeScript` `Redux` `Node.js`  `LangChain` `MongoDB`
 
 ### 🧩 [AI Pipeline Builder — Visual No-Code Workflow Tool](https://github.com/Iamhc/Ai-pipeline-frontend)
 > Drag-and-drop visual pipeline editor with real-time DAG validation and FastAPI backend
