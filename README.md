@@ -64,7 +64,7 @@
 > Drag-and-drop visual pipeline editor with real-time DAG validation (DFS) and an ACID-compliant PostgreSQL-backed FastAPI backend
 > `React.js` `ReactFlow` `TypeScript` `Zustand` `FastAPI` `PostgreSQL` `Docker`
 
-### 💸 MCP Expense Tracker Remote
+### 💸 [MCP Expense Tracker Remote](https://github.com/Iamhc/mcp-expense-tracker)
 > Remote Model Context Protocol server in Python that lets AI agents and clients log, retrieve and organize expenses, backed by MongoDB
 > `Python` `uv` `MCP` `PyMongo` `MongoDB`
 
