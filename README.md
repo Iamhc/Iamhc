@@ -27,7 +27,6 @@
 ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -43,6 +42,7 @@
 
 ### AI & Tools
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-5A52FF?style=flat-square&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
@@ -58,7 +58,7 @@
 
 ### 🤖 [AI Agent Platform](https://github.com/Iamhc/Dear-frontend)
 > Production-grade autonomous AI agent system with task routing, LLM responses via ZukiJourney API, LangChain prompt chaining and a real-time React dashboard
-> `Python` `FastAPI` `Node.js` `React.js` `TypeScript` `Redux` `LangChain` `MongoDB` `PostgreSQL` `Docker`
+> `Python` `FastAPI` `Node.js` `React.js` `TypeScript` `LangChain` `LangGraph` `MongoDB` `PostgreSQL` `Docker`
 
 ### 🧩 [AI Pipeline Builder — Visual No-Code Workflow Tool](https://github.com/Iamhc/Ai-pipeline-frontend)
 > Drag-and-drop visual pipeline editor with real-time DAG validation (DFS) and an ACID-compliant PostgreSQL-backed FastAPI backend
